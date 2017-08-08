@@ -37,4 +37,3 @@ Rank: Diamond
 	HTML y CSS serán utilizados para el frontend de la página. Tendremos una pantalla de inicio con la opción de hacer log in o sign up. Después entraremos en la página principal que es donde el jugador podrá buscar a otros participantes. También tenemos la parte del perfil, donde el jugador verá su información.
 
 	JS, PHP y MYSQL serán utilizados en la parte de la base de datos, en los registros, modificaciones y eliminaciones de cuentas de usuarios, también los utilizaremos para hacer las búsquedas de jugadores utilizando las especificaciones necesarias. PHP nos permite insertar las búsquedas dentro del mismo HTML, lo cual es indispensable para encontrar la información necesaria para cada jugador.
-
